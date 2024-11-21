@@ -102,7 +102,7 @@ header {
   align-items: center;
   text-align: center;
   background: 
-    url('/img/Vetor.png') center/contain no-repeat;
+    url('Vetor.png') center/contain no-repeat;
   padding: 0 2rem;
 }
 
